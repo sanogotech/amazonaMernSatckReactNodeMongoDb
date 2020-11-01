@@ -1,6 +1,9 @@
 # Amazona ECommerce Website
 ![amazona](/template/images/amazona.jpg)
 
+## Videos
+- https://youtu.be/TRCDsB9i3bI
+
 ## PLEASE DO NOT SEND PULL REQUEST
 ## ALL PRs WILL BE REJECTED UNTIL DECEMBER 2020
 
